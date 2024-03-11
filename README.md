@@ -6,8 +6,8 @@ In this project, I created an interactive dashboard to explore the Belly Button 
 
 ### Features
 1.	Horizontal Bar Chart with Dropdown Menu
-o	Utilizes the D3 library to read in data from the samples.json file.
-o	Displays the top 10 OTUs found in an individual subject.
+- Utilizes the D3 library to read in data from the samples.json file.
+- Displays the top 10 OTUs found in an individual subject.
 -	Uses sample_values as the values for the bar chart.
 -	Uses otu_ids as the labels for the bar chart.
 -	Utilizes otu_labels as hover text for the chart.
@@ -16,7 +16,7 @@ o	Displays the top 10 OTUs found in an individual subject.
 
   
 2.	Bubble Chart
-o	Displays each sample.
+- 	Displays each bacterial sample.
 -	Uses otu_ids for the x values.
 -	Utilizes sample_values for the y values and marker size.
 -	Uses otu_ids for the marker colors.
@@ -26,16 +26,15 @@ o	Displays each sample.
 
   
 3.	Metadata Display
-o	Displays each key-value pair from the metadata JSON object on the page.
+-	Displays each key-value pair from the metadata JSON object on the page.
 
 <img width="80" alt="metadata" src="https://github.com/MarcoN16/belly-button-challenge/assets/150491559/48c196fb-64dc-4e00-996b-39602e9cf19b">
 
 
 5.	Gauge Chart
-o	Adapted from the Plotly Gauge Charts example.
-o	Plots the weekly washing frequency of the individual subject.
+-	Plots the weekly washing frequency of the individual subject.
 -	Modified the gauge code to account for values ranging from 0 through 9.
-o	Updates the chart whenever a new sample is selected.
+- the chart will update whenever a new sample is selected.
 
 <img width="193" alt="gauge_chart" src="https://github.com/MarcoN16/belly-button-challenge/assets/150491559/4a90a5d3-99ac-476a-a6e8-c3f90f42c47c">
 
