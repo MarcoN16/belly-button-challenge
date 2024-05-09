@@ -38,7 +38,10 @@ In this project, I created an interactive dashboard to explore the Belly Button 
 
 <img width="193" alt="gauge_chart" src="https://github.com/MarcoN16/belly-button-challenge/assets/150491559/4a90a5d3-99ac-476a-a6e8-c3f90f42c47c">
 
+## Deployed to Github Pages 
+https://marcon16.github.io/belly-button-challenge/
 
-## References
+
+# References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
 
